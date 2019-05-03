@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\Andrew\IdeaProjects\watson\src\main\scala\watson\QueryEngine.scala:72:17: object JavaConversions in package collection is deprecated (since 2.12.0): use JavaConverters[0m
+[0m[[0m[33mwarn[0m] [0m[0m            if (answers.get(((i + 1) / 4) - 1) contains d.get("docID").mkString) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
